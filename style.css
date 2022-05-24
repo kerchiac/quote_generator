@@ -1,0 +1,8 @@
+html{
+    /* padding will not add extra width or height*/
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    min-height: 100vh; /*take full height of the screen even when content isn't enought to fill up the screen */
+}
